@@ -1,4 +1,4 @@
-const { multiply } = require('./div')
+const { multiply } = require('./multiply')
 
 describe('Функция умножения', () => {
   test('Функция должна быть объявлена', () => {
